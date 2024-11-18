@@ -1,13 +1,10 @@
-package com.devsuperior.userdept.controllers;
+package com.departmantapi.controllers;
 
-import com.devsuperior.userdept.entities.Department;
-import com.devsuperior.userdept.repositories.DepartmentRepository;
+import com.departmantapi.entities.Department;
+import com.departmantapi.repositories.DepartmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
-import java.util.Optional;
 
 import java.util.List;
 

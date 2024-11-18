@@ -1,4 +1,4 @@
-package com.devsuperior.userdept.entities;
+package com.departmantapi.entities;
 
 import javax.persistence.*;
 

@@ -1,7 +1,7 @@
-package com.devsuperior.userdept.controllers;
+package com.departmantapi.controllers;
 
-import com.devsuperior.userdept.entities.User;
-import com.devsuperior.userdept.repositories.UserRepository;
+import com.departmantapi.entities.User;
+import com.departmantapi.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

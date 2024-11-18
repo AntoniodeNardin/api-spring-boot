@@ -1,8 +1,8 @@
-package com.devsuperior.userdept.repositories;
+package com.departmantapi.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.devsuperior.userdept.entities.User;
+import com.departmantapi.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
     boolean existsByEmail(String email);
