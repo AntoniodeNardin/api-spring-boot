@@ -4,7 +4,7 @@ Este é um projeto de uma API para gerenciamento de usuários e departamentos. A
 
 ## Tecnologias
 
-- **Java 17+**
+- **Java 11+**
 - **Spring Boot**
 - **Spring Data JPA**
 - **H2 Database (Banco de Dados em Memória)**
