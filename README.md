@@ -13,7 +13,7 @@ API RESTful para gerenciamento de usuários e departamentos utilizando **Java** 
 ## Funcionalidades
 
 - **Usuários**: CRUD completo (Criar, Ler, Atualizar, Excluir)
-- **Departamentos**: CRUD completo
+- **Departamentos**: CRUD incompleto (Criar, Ler)
 
 ## Endpoints
 
